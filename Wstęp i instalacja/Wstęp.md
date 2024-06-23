@@ -27,7 +27,7 @@ systemu przed aktualizacją i kontynuować naszą pracę.
 
 ##### Aktualność i wydajność:
 
-Tumbleweed jest dystrybucją z aktualizacjami typu ciągłego. Znaczy to, że
+OpenSUSE Tumbleweed jest dystrybucją z aktualizacjami typu ciągłego. Znaczy to, że
 oprogramowanie jest aktualizowane na bieżąco. Nowe funkcje, poprawki
 bezpieczeństwa i inne zmiany są wdrażane natychmiast po ich przetestowaniu i
 uznaniu za stabilne. Znaczy to, że mamy doczynienia z aktualnym i najlepszym
@@ -71,6 +71,13 @@ wszystko opisać tak, aby terminal nie był nam w ogóle potrzebny. Wszystko co
 tutaj zaprezentuje będzie opisane w dwa sposoby - sposób graficzny i za pomocą
 linii komend.
 
-Jeżeli chcesz pomóc w rozwoju poradnika możesz zaproponować swoje zmiany
-poprzez Pull Request na Githubie.
+openSUSE jest dostępny w różnych wersjach. M.in Leap, Tumbleweed, Aeon, MicroOS. My będziemy korzystać z Tumbleweed jako, że na ten moment jest to najlepszy wybór do użytku codziennego.
 
+Skupimy się również na środowisku graficznym KDE Plasma. OpenSUSE pozwala zainstalować również inne pulpity jednakże moim zdaniem to właśnie Plasma jest najlepiej rozwiniętym środowiskiem oraz jest bardzo dobrze wspierana w openSUSE.
+
+Jeżeli chcesz pomóc w rozwoju poradnika możesz zaproponować swoje zmiany
+poprzez Pull Request na Githubie
+
+![](assets/20240623_222232_image.png)
+
+Mój pulpit :)
