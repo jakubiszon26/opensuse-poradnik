@@ -35,4 +35,30 @@ Gdy proces tworzenia pendrive zakończył się powodzeniem, uruchamiamy komputer
 | Asus      | F8, Esc     | F9, Del      |
 | Huawei    | F12         | F2, Del      |
 
- Naszym oczom powinno ukazać się menu. Szukamy w nim naszego pendrive'a i zatwierdzamy enterem. Teraz pokaże się grub, jest to menu które pozwala wybrać opcję uruchamiania. Wybieramy pierwszą opcję. Jeżeli wszystko wykonaliśmy poprawnie, to w tym momencie naszym oczom powinien ukazać się instalator.
+ Naszym oczom powinno ukazać się menu. Szukamy w nim naszego pendrive'a i zatwierdzamy enterem. Teraz pokaże się grub, jest to menu które pozwala wybrać opcję uruchamiania. Wybieramy drugą opcję (Installation). Jeżeli wszystko wykonaliśmy poprawnie, to w tym momencie naszym oczom powinien ukazać się instalator.
+
+![](assets/20240623_231934_image.png)
+
+#### Wybór języka i układu klawiatury
+
+W dwóch rozwijanych listach wybieramy język polski i przechodzimy dalej.
+
+![](assets/20240623_232617_Screenshot_opensusetumbleweed_2024-06-23_23_22:31.png)
+
+#### Repozytoria online
+
+Jeżeli wyskoczyło takie okienko, klikamy tak.
+
+![](assets/20240623_232927_image.png)
+
+Gdy wyświetli się lista repozytoriów, nic nie zmieniamy i klikamy dalej.
+
+#### Rola systemowa
+
+Gdy pokaże nam się wybór roli systemowej wybieramy pulpit KDE Plasma.
+
+![](assets/20240623_233105_image.png)
+
+#### Partycjonowanie
+
+Wybieramy konfiguracje prowadzoną.
