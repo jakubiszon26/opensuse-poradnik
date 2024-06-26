@@ -61,4 +61,44 @@ Gdy pokaże nam się wybór roli systemowej wybieramy pulpit KDE Plasma.
 
 #### Partycjonowanie
 
-Wybieramy konfiguracje prowadzoną.
+Domyślna konfiguracja zajmię całą przestrzeń dyskową. Jeżeli chcemy zaszyfrować dysk bądź wprowadzić kilka innych zmian możemy skorzystać z konfiguracji prowadzonej.
+
+![](assets/20240626_202214_image.png)
+
+Tutaj możemy zaszyfrować dysk. **UWAGA!** Domyślna konfiguracja będzie wymagać od nas podania hasła 2 razy przed uruchomieniem systemu (Nie licząc ekranu logowania użytkownika). Sposoby na przyspieszenie tego procesu będą w dalszej części poradnika.
+
+![](assets/20240626_202442_image.png)
+
+Klikamy dalej.
+
+![](assets/20240626_202740_image.png)
+
+Upewniamy się, że włączone jest wsparcie migawek systemu. Jeżeli chcesz korzystać z funkcji hibernacji (tzn. całkowitego wyłączenia komputera z zachowaniem stanu systemu przed zamknięciem), zaznaczamy opcję "Zwiększ do rozmiaru pamięci RAM dla wstrzymania. Przechodzimy dalej i akceptujemy zmiany dyskowe proponowane przez instalator.
+
+#### Zegar i strefa czasowa
+
+![](assets/20240626_203144_image.png)
+
+Tutaj upewniamy się, że wybrana jest polska strefa czasowa. Jeżeli wybraliśmy język polski instalatora, domyślne ustawienia powinny być prawidłowe.
+
+#### Tworzenie użytkownika
+
+![](assets/20240626_203345_image.png)
+
+Uzupełniamy pola tekstowe. Nazwa użytkownika nie może zaczynać się z dużej litery. Następnie zatwierdzamy dane klikając dalej.
+
+#### Ustawienia instalacji.
+
+![](assets/20240626_203631_image.png)
+
+Teraz możemy trochę bardziej szczegółowo dostosować nasz system.
+
+Jeżeli klikniemy link oznaczony na zdjęciu numerem jeden przejdziemy do ustawień menadżera rozruchu. Znajduje się tu eksperymentalna opcja obsługi systemd-boot. **Wybranie jej znacznie przyspieszy czas odszyfrowywania dysku** i hasło będzie trzeba wpisywać tylko **raz**. Jeżeli jednak nie zdecydujemy się ze tego skorzystać, możemy to później zrobić inną metodą, lecz czas odszyfrowywania będzie dłuższy.
+
+Numerem dwa oznaczyłem na zdjęciu sekcję z oprogramowaniem. Po jej kliknięcu otworzy nam się lista tzw. wzorów oprogramowania. Możemy tu wybrać dodadtkowe oprogramowanie, które chcemy aby instalator nam od razu zainstalował. Oczywiście po instalacji systemu możemy w dalszym ciągu te wzorce instalować/odinstalowywać za pomocą Yast2.
+
+Osobiście zalecam odznaczyć wzorzec z grami.
+
+![](assets/20240626_204753_image.png)
+
+Zatwierdzamy klikając dalej. Następnie instaluj. To jednak nie koniec. Po zakończonej instalacji będzie trzeba uruchomić komputer ponownie i wykonać kilka dodatkowych zmian w konfiguracji.
